@@ -13,12 +13,12 @@ namespace DapperApp.ConsoleUI
             //https://github.com/btkacademy/csharp-basic
             //https://github.com/btkacademy/design-patterns
             //https://www.learndapper.com
-            //CreatePerson();
-            //WritePersonList();
-            //UpdatePersom();
+            CreatePerson();
             WritePersonList();
-            //DeletePerson();
-            //WritePersonList();
+            UpdatePersom();
+            WritePersonList();
+            DeletePerson();
+            WritePersonList();
             Filter();
         }
 
